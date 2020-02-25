@@ -1,0 +1,13 @@
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.csprojAssemblyReference.cache
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.AssemblyInfoInputs.cache
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.AssemblyInfo.cs
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq.deps.json
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq.runtimeconfig.json
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq.runtimeconfig.dev.json
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq.dll
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/tutorlinq.pdb
+/Users/user/tutorlinq/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.csproj.CopyComplete
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.dll
+/Users/user/tutorlinq/obj/Debug/netcoreapp3.1/tutorlinq.pdb
